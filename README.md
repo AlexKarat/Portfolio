@@ -1,7 +1,7 @@
 # Portfolio
 my projects
 
-MyMMO (Solo dev project) URL: https://github.com/CybersecurityAlexanndros/MyMMO
+MyMMO (Solo dev project) URL: https://github.com/CybersecurityAlexandros/MyMMO
 
 Zombie VR game( group project) URL: https://github.com/AlexKarat/ZombieGame
 
